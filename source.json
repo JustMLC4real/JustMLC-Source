@@ -10,36 +10,37 @@
   ],
   "apps": [
     {
-      "name": "Rayman Classic Patcher",
-      "bundleIdentifier": "com.justmlc.raymanpatcher.app",
-      "developerName": "JustMLC",
-      "subtitle": "WiFi crash fix & ultra widescreen support.",
-      "localizedDescription": "A patcher for Rayman Classic (iOS) that resolves an issue where the game crashes when WiFi is enabled.\nIt also adds ultra widescreen support for modern displays.",
-      "iconURL": "https://i.imgur.com/cwXK6XH.png",
-      "tintColor": "#a54b72",
-      "category": "utilities",
-      "screenshots": [
-        {
-          "imageURL": "https://i.imgur.com/FJoFprI.jpeg",
-          "width": 2532,
-          "height": 1170
-        }
-      ],
-      "downloadURL": "https://github.com/JustMLC4real/Rayman-Classic-Patcher/releases/download/1.0/RaymanPatcher.ipa",
-      "versions": [
-        {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-03-19T11:28:00+01:00",
-          "downloadURL": "https://github.com/JustMLC4real/Rayman-Classic-Patcher/releases/download/1.0/RaymanPatcher.ipa",
-          "size": 1100000
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      }
+  "name": "Rayman Classic Patcher",
+  "bundleIdentifier": "com.justmlc.raymanpatcher.app",
+  "developerName": "JustMLC",
+  "subtitle": "WiFi crash fix & ultra widescreen support.",
+  "localizedDescription": "A patcher for Rayman Classic (iOS) that resolves an issue where the game crashes when WiFi is enabled.\nIt also adds ultra widescreen support for modern displays.",
+  "iconURL": "https://i.imgur.com/cwXK6XH.png",
+  "tintColor": "#a54b72",
+  "category": "utilities",
+  "screenshots": [
+    {
+      "imageURL": "https://i.imgur.com/FJoFprI.jpeg",
+      "width": 2532,
+      "height": 1170
     }
+  ],
+  "downloadURL": "https://github.com/JustMLC4real/Rayman-Classic-Patcher/releases/download/1.0/RaymanPatcher.ipa",
+  "versions": [
+    {
+      "version": "1.0",
+      "buildVersion": "1",
+      "date": "2026-03-19T11:28:00+01:00",
+      "localizedDescription": "Initial release.\n- Fixes the WiFi crash in Rayman Classic\n- Adds ultra widescreen support",
+      "downloadURL": "https://github.com/JustMLC4real/Rayman-Classic-Patcher/releases/download/1.0/RaymanPatcher.ipa",
+      "size": 1100000
+    }
+  ],
+  "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+  }
+}
   ],
   "news": []
 }
