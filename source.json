@@ -4,7 +4,7 @@
   "description": "Welcome to my source!",
   "iconURL": "https://i.imgur.com/7RX3gSX.png",
   "website": "https://github.com/JustMLC4real/",
-  "patreonURL": "",
+  "patreonURL": null,
   "tintColor": "#cf9c5c",
   "featuredApps": [
     "com.justmlc.raymanpatcher.app"
@@ -13,7 +13,7 @@
     {
       "name": "Rayman Classic Patcher",
       "bundleIdentifier": "com.justmlc.raymanpatcher.app",
-      "marketplaceID": "",
+      "marketplaceID": null,
       "developerName": "JustMLC",
       "subtitle": "WiFi crash fix & ultra widescreen support.",
       "localizedDescription": "A patcher for Rayman Classic (iOS) that resolves an issue where the game crashes when WiFi is enabled. It also adds ultra widescreen support for modern displays.",
@@ -39,15 +39,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-        ],
-        "privacy": {
-        }
+        "entitlements": [],
+        "privacy": {}
       },
-      "patreon": {
-      }
+      "patreon": {}
     }
   ],
-  "news": [
-  ]
+  "news": []
 }
